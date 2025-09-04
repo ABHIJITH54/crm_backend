@@ -36,6 +36,11 @@ Key Endpoints:
 
 ---
 
+### Admin credentials
+
+username==>   abhijithms216@gmail.com
+
+password==>   Abhijithabhi@808933
 
 
 ### 1. Clone & Setup
