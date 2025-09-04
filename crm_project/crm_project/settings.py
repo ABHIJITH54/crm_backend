@@ -215,11 +215,12 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:5173",
     "https://crm-admin-hazel.vercel.app",
+    "https://crm-admin-1mw3w8up0-abhijith-m-ss-projects.vercel.app",
 ]
 
 
 # CORS_ALLOW_CREDENTIALS = True
-CORS_ALLOW_ALL_ORIGINS = True
+# CORS_ALLOW_ALL_ORIGINS = True
 
 
 CORS_ALLOWED_HEADERS = [
